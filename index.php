@@ -148,7 +148,7 @@
                          echo "Saudi Riyal ";
                       }
 
-
+                      //We can add more currencies like these
                     }
 
                 ?>
